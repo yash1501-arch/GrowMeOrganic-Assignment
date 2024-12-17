@@ -113,7 +113,7 @@ const App: React.FC = () => {
 
   return (
     <div className="app-container">
-      <h1>Pagination with OverlayPanel</h1>
+      <h1>GrowMeOrganic Assignment</h1>
       <div className="table-container" style={{ height: "700px", overflow: "auto" }}>
         <DataTable
           value={artworks}
